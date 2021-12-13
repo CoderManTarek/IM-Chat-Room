@@ -24,5 +24,6 @@ logout
 send all <message>
 send <username> <message>
 newuser <username> <password>
+who
 
 kill the terminals to terminate the client/server instances
